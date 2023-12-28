@@ -17,4 +17,3 @@ implicit-external = false
 source-form = "free"
 [preprocess]
 [preprocess.cpp]
-[preprocess.fypp]
